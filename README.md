@@ -12,6 +12,7 @@ This analysis aimed to understand customer purchase behavior, streamline operati
 - Top 15 Products by Transactions and Revenue: Ranking Based on Transaction Volume and Revenue.
 
 𝌣 Insights & Recommendations:
+
 💡 Revenue: 
   - All three stores experienced a growth in revenue, with the highest increase observed at the Hell’s Kitchen location in June, 
   reaching a notable $56,957. 
